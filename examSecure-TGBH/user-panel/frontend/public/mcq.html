@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MCQ Exam - Exam Portal</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Multiple Choice Questions Exam</h1>
+      <p>Choose the best answer</p>
+    </header>
+    
+    <main>
+      <div class="exam-container">
+        <div class="exam-header">
+          <div id="question-count">Question 1 of 10</div>
+          <div class="timer" id="timer">30:00</div>
+        </div>
+        
+        <div class="question-container">
+          <div class="question" id="question-text">Question text will appear here</div>
+          <div class="options" id="options-container"></div>
+        </div>
+        
+        <div class="navigation">
+          <button id="prev-btn" class="nav-btn" disabled>Previous</button>
+          <button id="next-btn" class="nav-btn">Next</button>
+          <button id="submit-btn" class="nav-btn submit-btn" style="display: none;">Submit Exam</button>
+        </div>
+      </div>
+    </main>
+    
+    <footer>
+      <p>&copy; 2025 Exam Portal</p>
+    </footer>
+  </div>
+
+  <script src="https://cdn.socket.io/4.0.1/socket.io.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

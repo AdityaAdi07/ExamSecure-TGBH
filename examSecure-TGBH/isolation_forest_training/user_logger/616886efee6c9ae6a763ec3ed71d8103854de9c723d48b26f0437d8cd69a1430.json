@@ -1,0 +1,1594 @@
+[
+    {
+        "timestamp": 1741806387.833588,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.space",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833596,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.enter",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833597,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.enter",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833599,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.alt_l",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.8336,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.alt_l",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833601,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.tab",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833602,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.tab",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833605,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "z",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833606,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "l",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833608,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833609,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.83361,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833611,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833612,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833613,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "l",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833615,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "l",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833616,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "l",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833617,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "l",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833618,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "d",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833619,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "d",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.83362,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "d",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833621,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "d",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833622,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.space",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833623,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.space",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833624,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.space",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833626,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.space",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833627,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "h",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833628,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833629,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.83363,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833631,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833632,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833633,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833634,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "k",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833635,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "k",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833636,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "g",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833638,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": ",",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833639,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "i",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.83364,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.alt_l",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833641,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.tab",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833643,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "d",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833644,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "d",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833645,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "d",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833646,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833647,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833648,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833649,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.83365,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833651,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833652,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "s",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833653,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "l",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833654,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "l",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833655,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833656,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833657,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833658,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833659,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.83366,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833661,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "a",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833662,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "h",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833663,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "h",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833664,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "h",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833665,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "Key.space",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806387.833666,
+        "event_type": "keyboard",
+        "x": null,
+        "y": null,
+        "key": "k",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806383.829883,
+        "event_type": "mouse",
+        "x": 607,
+        "y": 431,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.836558,
+        "event_type": "mouse",
+        "x": 608,
+        "y": 430,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.842892,
+        "event_type": "mouse",
+        "x": 610,
+        "y": 429,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.849815,
+        "event_type": "mouse",
+        "x": 611,
+        "y": 429,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.86354,
+        "event_type": "mouse",
+        "x": 619,
+        "y": 425,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.86402,
+        "event_type": "mouse",
+        "x": 637,
+        "y": 416,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.877305,
+        "event_type": "mouse",
+        "x": 692,
+        "y": 393,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.877985,
+        "event_type": "mouse",
+        "x": 737,
+        "y": 376,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.884442,
+        "event_type": "mouse",
+        "x": 761,
+        "y": 368,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.895449,
+        "event_type": "mouse",
+        "x": 786,
+        "y": 362,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.897705,
+        "event_type": "mouse",
+        "x": 807,
+        "y": 358,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.907399,
+        "event_type": "mouse",
+        "x": 828,
+        "y": 352,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.911369,
+        "event_type": "mouse",
+        "x": 849,
+        "y": 350,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.917985,
+        "event_type": "mouse",
+        "x": 864,
+        "y": 347,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.924808,
+        "event_type": "mouse",
+        "x": 883,
+        "y": 343,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.93222,
+        "event_type": "mouse",
+        "x": 895,
+        "y": 342,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.939119,
+        "event_type": "mouse",
+        "x": 903,
+        "y": 342,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.945639,
+        "event_type": "mouse",
+        "x": 912,
+        "y": 342,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.953169,
+        "event_type": "mouse",
+        "x": 917,
+        "y": 342,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.959245,
+        "event_type": "mouse",
+        "x": 920,
+        "y": 342,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.966072,
+        "event_type": "mouse",
+        "x": 922,
+        "y": 342,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.972732,
+        "event_type": "mouse",
+        "x": 923,
+        "y": 342,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806383.980084,
+        "event_type": "mouse",
+        "x": 924,
+        "y": 343,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.001016,
+        "event_type": "mouse",
+        "x": 925,
+        "y": 343,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.014883,
+        "event_type": "mouse",
+        "x": 925,
+        "y": 344,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.23922,
+        "event_type": "mouse",
+        "x": 899,
+        "y": 353,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.245981,
+        "event_type": "mouse",
+        "x": 868,
+        "y": 365,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.252631,
+        "event_type": "mouse",
+        "x": 838,
+        "y": 377,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.259914,
+        "event_type": "mouse",
+        "x": 805,
+        "y": 390,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.266847,
+        "event_type": "mouse",
+        "x": 776,
+        "y": 401,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.274259,
+        "event_type": "mouse",
+        "x": 746,
+        "y": 411,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.28022,
+        "event_type": "mouse",
+        "x": 721,
+        "y": 421,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.287041,
+        "event_type": "mouse",
+        "x": 696,
+        "y": 430,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.293875,
+        "event_type": "mouse",
+        "x": 671,
+        "y": 438,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.300585,
+        "event_type": "mouse",
+        "x": 651,
+        "y": 445,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.30858,
+        "event_type": "mouse",
+        "x": 627,
+        "y": 453,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.314682,
+        "event_type": "mouse",
+        "x": 604,
+        "y": 460,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.321804,
+        "event_type": "mouse",
+        "x": 590,
+        "y": 465,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.328054,
+        "event_type": "mouse",
+        "x": 578,
+        "y": 469,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.335121,
+        "event_type": "mouse",
+        "x": 564,
+        "y": 474,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.341657,
+        "event_type": "mouse",
+        "x": 553,
+        "y": 479,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.348692,
+        "event_type": "mouse",
+        "x": 546,
+        "y": 482,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.356737,
+        "event_type": "mouse",
+        "x": 541,
+        "y": 485,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.362546,
+        "event_type": "mouse",
+        "x": 537,
+        "y": 487,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.382521,
+        "event_type": "mouse",
+        "x": 535,
+        "y": 488,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.382918,
+        "event_type": "mouse",
+        "x": 533,
+        "y": 489,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.424192,
+        "event_type": "mouse",
+        "x": 533,
+        "y": 489,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.430638,
+        "event_type": "mouse",
+        "x": 533,
+        "y": 489,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.437776,
+        "event_type": "mouse",
+        "x": 535,
+        "y": 488,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.444867,
+        "event_type": "mouse",
+        "x": 535,
+        "y": 488,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.451074,
+        "event_type": "mouse",
+        "x": 537,
+        "y": 487,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.460884,
+        "event_type": "mouse",
+        "x": 542,
+        "y": 485,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.465298,
+        "event_type": "mouse",
+        "x": 555,
+        "y": 482,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.472204,
+        "event_type": "mouse",
+        "x": 570,
+        "y": 477,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.482071,
+        "event_type": "mouse",
+        "x": 616,
+        "y": 466,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.492367,
+        "event_type": "mouse",
+        "x": 672,
+        "y": 453,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.507417,
+        "event_type": "mouse",
+        "x": 691,
+        "y": 449,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.507968,
+        "event_type": "mouse",
+        "x": 710,
+        "y": 443,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.519803,
+        "event_type": "mouse",
+        "x": 723,
+        "y": 440,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.520098,
+        "event_type": "mouse",
+        "x": 733,
+        "y": 437,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.528088,
+        "event_type": "mouse",
+        "x": 747,
+        "y": 433,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.533388,
+        "event_type": "mouse",
+        "x": 756,
+        "y": 429,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.540211,
+        "event_type": "mouse",
+        "x": 763,
+        "y": 427,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.551783,
+        "event_type": "mouse",
+        "x": 769,
+        "y": 423,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.553695,
+        "event_type": "mouse",
+        "x": 774,
+        "y": 420,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.561936,
+        "event_type": "mouse",
+        "x": 779,
+        "y": 417,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.568031,
+        "event_type": "mouse",
+        "x": 780,
+        "y": 416,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.574889,
+        "event_type": "mouse",
+        "x": 781,
+        "y": 415,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.584899,
+        "event_type": "mouse",
+        "x": 781,
+        "y": 415,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.595009,
+        "event_type": "mouse",
+        "x": 781,
+        "y": 414,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.60175,
+        "event_type": "mouse",
+        "x": 781,
+        "y": 414,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.608982,
+        "event_type": "mouse",
+        "x": 781,
+        "y": 414,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.615476,
+        "event_type": "mouse",
+        "x": 780,
+        "y": 413,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.622799,
+        "event_type": "mouse",
+        "x": 779,
+        "y": 413,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.630067,
+        "event_type": "mouse",
+        "x": 776,
+        "y": 413,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.642733,
+        "event_type": "mouse",
+        "x": 769,
+        "y": 413,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.642879,
+        "event_type": "mouse",
+        "x": 763,
+        "y": 413,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.651188,
+        "event_type": "mouse",
+        "x": 754,
+        "y": 415,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.656632,
+        "event_type": "mouse",
+        "x": 743,
+        "y": 419,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.663366,
+        "event_type": "mouse",
+        "x": 732,
+        "y": 424,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.67068,
+        "event_type": "mouse",
+        "x": 723,
+        "y": 427,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.67741,
+        "event_type": "mouse",
+        "x": 713,
+        "y": 430,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.684327,
+        "event_type": "mouse",
+        "x": 707,
+        "y": 433,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.690828,
+        "event_type": "mouse",
+        "x": 700,
+        "y": 436,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.697822,
+        "event_type": "mouse",
+        "x": 695,
+        "y": 438,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.706504,
+        "event_type": "mouse",
+        "x": 691,
+        "y": 439,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.711116,
+        "event_type": "mouse",
+        "x": 688,
+        "y": 441,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.719073,
+        "event_type": "mouse",
+        "x": 686,
+        "y": 441,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.730584,
+        "event_type": "mouse",
+        "x": 684,
+        "y": 442,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.732009,
+        "event_type": "mouse",
+        "x": 683,
+        "y": 443,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.745451,
+        "event_type": "mouse",
+        "x": 682,
+        "y": 443,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.750566,
+        "event_type": "mouse",
+        "x": 681,
+        "y": 443,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806384.959109,
+        "event_type": "mouse",
+        "x": 681,
+        "y": 443,
+        "key": "Button.left",
+        "event": "down"
+    },
+    {
+        "timestamp": 1741806385.082751,
+        "event_type": "mouse",
+        "x": 681,
+        "y": 443,
+        "key": "Button.left",
+        "event": "up"
+    },
+    {
+        "timestamp": 1741806385.357291,
+        "event_type": "mouse",
+        "x": 659,
+        "y": 444,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.363764,
+        "event_type": "mouse",
+        "x": 627,
+        "y": 451,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.377326,
+        "event_type": "mouse",
+        "x": 603,
+        "y": 456,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.378451,
+        "event_type": "mouse",
+        "x": 579,
+        "y": 462,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.390087,
+        "event_type": "mouse",
+        "x": 555,
+        "y": 466,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.39143,
+        "event_type": "mouse",
+        "x": 536,
+        "y": 473,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.39881,
+        "event_type": "mouse",
+        "x": 519,
+        "y": 478,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.40518,
+        "event_type": "mouse",
+        "x": 504,
+        "y": 484,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.411748,
+        "event_type": "mouse",
+        "x": 492,
+        "y": 489,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.418399,
+        "event_type": "mouse",
+        "x": 481,
+        "y": 493,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.425406,
+        "event_type": "mouse",
+        "x": 471,
+        "y": 499,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.431933,
+        "event_type": "mouse",
+        "x": 464,
+        "y": 504,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.439012,
+        "event_type": "mouse",
+        "x": 455,
+        "y": 509,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.446114,
+        "event_type": "mouse",
+        "x": 452,
+        "y": 512,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.460303,
+        "event_type": "mouse",
+        "x": 449,
+        "y": 515,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.463721,
+        "event_type": "mouse",
+        "x": 447,
+        "y": 517,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.466291,
+        "event_type": "mouse",
+        "x": 444,
+        "y": 520,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.473071,
+        "event_type": "mouse",
+        "x": 444,
+        "y": 522,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.479856,
+        "event_type": "mouse",
+        "x": 443,
+        "y": 524,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.486604,
+        "event_type": "mouse",
+        "x": 442,
+        "y": 526,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.496066,
+        "event_type": "mouse",
+        "x": 441,
+        "y": 529,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.500935,
+        "event_type": "mouse",
+        "x": 441,
+        "y": 530,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.508639,
+        "event_type": "mouse",
+        "x": 441,
+        "y": 533,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.522884,
+        "event_type": "mouse",
+        "x": 441,
+        "y": 537,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.530982,
+        "event_type": "mouse",
+        "x": 441,
+        "y": 539,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.535352,
+        "event_type": "mouse",
+        "x": 441,
+        "y": 541,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.541866,
+        "event_type": "mouse",
+        "x": 441,
+        "y": 542,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.548868,
+        "event_type": "mouse",
+        "x": 441,
+        "y": 545,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.555253,
+        "event_type": "mouse",
+        "x": 442,
+        "y": 548,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.56561,
+        "event_type": "mouse",
+        "x": 443,
+        "y": 550,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.568877,
+        "event_type": "mouse",
+        "x": 443,
+        "y": 552,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.575656,
+        "event_type": "mouse",
+        "x": 444,
+        "y": 554,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.583697,
+        "event_type": "mouse",
+        "x": 445,
+        "y": 556,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.592832,
+        "event_type": "mouse",
+        "x": 445,
+        "y": 556,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.597204,
+        "event_type": "mouse",
+        "x": 446,
+        "y": 557,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.6032,
+        "event_type": "mouse",
+        "x": 446,
+        "y": 558,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.610292,
+        "event_type": "mouse",
+        "x": 447,
+        "y": 559,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.617418,
+        "event_type": "mouse",
+        "x": 448,
+        "y": 560,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.628243,
+        "event_type": "mouse",
+        "x": 449,
+        "y": 560,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.630738,
+        "event_type": "mouse",
+        "x": 450,
+        "y": 561,
+        "key": null,
+        "event": null
+    },
+    {
+        "timestamp": 1741806385.641666,
+        "event_type": "mouse",
+        "x": 453,
+        "y": 561,
+        "key": null,
+        "event": null
+    }
+]

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Exam Portal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Exam Portal</h1>
+      <p>Select an exam type to begin</p>
+    </header>
+    
+    <main class="exam-selection">
+      <div class="exam-card" onclick="redirectToExam('mcq')">
+        <div class="exam-icon">📝</div>
+        <h2>Multiple Choice</h2>
+        <p>Test your knowledge</p>
+        <button class="start-btn">Start Exam</button>
+      </div>
+      <div class="exam-card" onclick="redirectToExam('subjective')">
+        <div class="exam-icon">📄</div>
+        <h2>Subjective Questions</h2>
+        <p>Answer in detail</p>
+        <button class="start-btn">Start Exam</button>
+      </div>
+      <div class="exam-card" onclick="redirectToExam('coding')">
+        <div class="exam-icon">💻</div>
+        <h2>Coding Problems</h2>
+        <p>DSA-based coding practice</p>
+        <button class="start-btn">Start Exam</button>
+      </div>
+    </main>
+    
+    <footer>
+      <p>&copy; 2025 Exam Portal</p>
+    </footer>
+  </div>
+
+  <!-- Socket.IO -->
+  <script src="https://cdn.socket.io/4.5.0/socket.io.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

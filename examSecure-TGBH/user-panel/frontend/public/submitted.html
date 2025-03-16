@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Exam Submitted - Exam Portal</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Exam Portal</h1>
+    </header>
+    
+    <main>
+      <div class="exam-container success-container">
+        <div class="success-icon">✅</div>
+        <h2 class="success-message">Exam Submitted Successfully!</h2>
+        <p>Your responses have been recorded.</p>
+        <p>You will be redirected to Home in <span id="countdown">3</span> seconds.</p>
+        <a href="mains.html" class="return-btn">Return to Home</a>
+      </div>
+    </main>
+    
+    <footer>
+      <p>&copy; 2025 Exam Portal</p>
+    </footer>
+  </div>
+
+  <!-- Socket.IO -->
+  <script src="https://cdn.socket.io/4.5.0/socket.io.min.js"></script>
+
+  
+  <script src="script.js"></script>
+</body>
+</html>
