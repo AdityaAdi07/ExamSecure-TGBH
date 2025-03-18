@@ -12,17 +12,21 @@
 - [License](#license)
 
 ## Features
-- **User-SDk**:
-  it is any PyQt(python) application, that runs in background when user takes online assessment, SDK basically logs user keystroke and mouse movements. And monitor the apps opened in background. This all takes less than 0.2-0.3% CPU usage (smooth flow on low end PC's too). It is connected with pre-trained Anamoly Model (Isolation Forest) which calculates Risk-Score every 10-sec. And this can be shipped via .exe file easily.
+1. **User-SDk**:
+- it is any PyQt(python) application, that runs in background when user takes online assessment, SDK basically logs user keystroke and mouse movements.
+- And monitor the apps opened in background. This all takes less than 0.2-0.3% CPU usage (smooth flow on low end PC's too).
+-  It is connected with pre-trained Anamoly Model (Isolation Forest) which calculates Risk-Score every 10-sec. And this can be shipped via .exe file easily.
 ![Screenshot 2025-03-18 124148](https://github.com/user-attachments/assets/7c36293b-4cca-4639-adf9-9122b47f9416)
 
-- **Anomaly-Model (Isolation-Forest)**:
-  it is an pre-trained model, that is trained on "normal_behaviour.csv" by a back logging python application, then this csv is used to generate "anomaly.json" which contains the anomaly scores of abnormal/malpractice. Then the user logs from SDK is compared with this json file and dynamic Risk-Scores are updated every 10-sec.
+2. **Anomaly-Model (Isolation-Forest)**:
+- it is an pre-trained model, that is trained on "normal_behaviour.csv" by a back logging python application, then this csv is used to generate "anomaly.json" which contains the anomaly scores of abnormal/malpractice.
+- Then the user logs from SDK is compared with this json file and dynamic Risk-Scores are updated every 10-sec.
 ![Screenshot 2025-03-18 125053](https://github.com/user-attachments/assets/09d67a18-3cb8-4400-b47f-d7e4d97c0f95)
 ![image](https://github.com/user-attachments/assets/3c1b7eae-82be-4c9a-ae82-3aba88742ac5)
 
-- **User-Panel**:
-  User-Panel is a simple frontend for user to use that ensures that user knows his/her live risk-Score (same what admin see) and warning pop-up when the admin sends. user panel runs as soon as SDk opens and updates every 10-sec. It is conncted to mongo-DB database from which Risk-Score is updated.
+3. **User-Panel**:
+- User-Panel is a simple frontend for user to use that ensures that user knows his/her live risk-Score (same what admin see) and warning pop-up when the admin sends.
+- user panel runs as soon as SDk opens and updates every 10-sec. It is conncted to mongo-DB database from which Risk-Score is updated.
 ![Screenshot 2025-03-05 220005](https://github.com/user-attachments/assets/5885ac76-2458-4c21-a6f8-eefa50341902)
 
 
