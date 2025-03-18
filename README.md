@@ -28,12 +28,36 @@
 - User-Panel is a simple frontend for user to use that ensures that user knows his/her live risk-Score (same what admin see) and warning pop-up when the admin sends.
 - user panel runs as soon as SDk opens and updates every 10-sec. It is conncted to mongo-DB database from which Risk-Score is updated.
 ![Screenshot 2025-03-05 220005](https://github.com/user-attachments/assets/5885ac76-2458-4c21-a6f8-eefa50341902)
+![image](https://github.com/user-attachments/assets/ab5e1dfd-62b6-4301-a814-4f922d726f15)
+
+
+
+3. **Exam-Panel**:
+- A exam-page that is divied into coding-type, subjective-type and objective-type
+- Each type of exam has unique isolation anomaly-score json data, for eg; coding-type allows erattic keyboard movement (coding uses more symbols), where as objective allow more mouse movement but keep heavy tab on keyboard.
+![Screenshot 2025-03-18 161249](https://github.com/user-attachments/assets/6e4405be-2a79-4d80-8246-ae0f5eb062d7)
+
+4. **Admin-Panel**
+- A dynamic-website, that is refreshed every 10-sec according to latest Risk Scores of the user, it displays Username, Risk-Score, Mouse & Keyboard Risk-Score, Latest used app, and Current system condition.
+- It allows admin to select a user and send warning message, ban or un-ban them on insaant. This log is also stored in mongo DB so for further reference if ever decision is challenged.
+- Also there is graphical representaion of the the risk score for admin to easily see through multiple users.
+![image](https://github.com/user-attachments/assets/71cafb07-fd23-4db8-9fb8-0e2c76fca5db)
+![image](https://github.com/user-attachments/assets/5b6aea89-8418-4f32-99f4-55bf22310e2e)
+![image](https://github.com/user-attachments/assets/4200fbc0-dd76-40c0-bb8d-987ea1f2b586)
+
 
 
 ## Tech Stack
-- **Machine Learning**: TensorFlow for CNN model implementation
-- **Backend**: Flask for handling HTTP requests and serving the model
-- **Frontend**: HTML, CSS, and JavaScript for a responsive web application
+1. **Machine Learning**: isolation forest
+2. **Backend**: 
+- express JS for server setup
+- Flask-python for device fingerprint
+- PyQt for user-SDK, monitoring app
+- stream.io for easier web-socket connection 
+3. **Frontend**: 
+- React for user and admin panel
+- HTML-JS for exam portal
+4. Database: MongoDB
 
 ## Installation
 
@@ -47,30 +71,30 @@ Ensure the trained CNN model and class indices JSON file are located in the `mod
 1. Open your terminal or command prompt.
 2. Navigate to the project directory if you haven't already:
     ```bash
-    cd path/to/krishaka-kavacham
+    cd path/to/Exam-Secure
     ```
-3. Run the application:
+3. Navigate to admin-panel:
     ```bash
-    python app.py
+    cd path/to/Exam-Secure/admin-panel
     ```
-4. Access the app locally at [http://127.0.0.1:5000](http://127.0.0.1:5000).
-## Images
+4. Run the application (after downloading dependencies via npm install):
+    ```bash
+    npm start
+    ```
+5. Navigate to user-panel:
+    ```bash
+    cd path/to/Exam-Secure/user-panel
+    ```
+6. Run the application (after downloading dependencies via npm install):
+    ```bash
+    npm start
+    ```
+7. Run the user-SDK application by navigation to user-sdk:
+    ```bash
+    cd path/to/Exam-Secure/user-sdk
+    python main.py
+    ```
 
-![Screenshot 2024-11-15 020500](https://github.com/user-attachments/assets/5c346b5f-8bcf-419d-82ec-fcd759375cee)
-
-
-## Usage
-1. Open the web app in your browser.
-2. Upload an image of a plant leaf.
-3. Click "Diagnose Now" to get the disease classification and severity level.
-
-## Future Scope
-- Expand the dataset to include more plant species and disease types.
-- Make the app mobile-friendly and accessible to a broader audience.
-- Use data augmentation techniques for improved robustness and accuracy.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 ### Clone Repository
