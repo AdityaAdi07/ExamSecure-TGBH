@@ -1,6 +1,6 @@
 # ExamSecure- Risk-Based Proctoring System For Online Assessments
 
-**ExamSecure** is a smart, real-time project that can detect whether user is conducting a malpractice without use of camera and mic feed i.e privacy of user is maintained. We proctore the assessment by monitoring the keystroke, mouse and background apps. We do not store any user log data or monitor what user is doing in background apps, thus maintaing the privacy. We use dynamic Risk-Score which is updated every 10-sec.
+**ExamSecure** is a smart, real-time application that can detect whether user is conducting a malpractice without use of camera and mic feed i.e privacy of user is maintained. We proctore the assessment by monitoring the keystroke, mouse and background apps. We do not store any user log data or monitor what user is doing in background apps, thus maintaing the privacy. We use dynamic Risk-Score which is updated every 10-sec.
 
 ## Table of Contents
 - [Features](#features)
