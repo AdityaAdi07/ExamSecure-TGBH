@@ -1,6 +1,6 @@
-# Krishaka Kavacham: Plant Disease Detection Model
+# ExamSecure- Risk-Based Proctoring System For Online Assessments
 
-**Krishaka Kavacham** is a machine learning project designed to help identify plant diseases quickly and accurately. Utilizing Convolutional Neural Networks (CNN), it classifies uploaded plant images as either "Healthy" or "Diseased" and can identify the specific disease from a set of 38 classes. The project includes a web application interface for easy user interaction.
+**ExamSecure** is a smart, real-time project that can detect whether user is conducting a malpractice without use of camera and mic feed i.e privacy of user is maintained. We proctore the assessment by monitoring the keystroke, mouse and background apps 
 
 ## Table of Contents
 - [Features](#features)
