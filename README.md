@@ -1,6 +1,6 @@
 # ExamSecure- Risk-Based Proctoring System For Online Assessments
 
-**ExamSecure** is a smart, real-time project that can detect whether user is conducting a malpractice without use of camera and mic feed i.e privacy of user is maintained. We proctore the assessment by monitoring the keystroke, mouse and background apps 
+**ExamSecure** is a smart, real-time project that can detect whether user is conducting a malpractice without use of camera and mic feed i.e privacy of user is maintained. We proctore the assessment by monitoring the keystroke, mouse and background apps. We do not store any user log data or monitor what user is doing in background apps, thus maintaing the privacy. We use dynamic Risk-Score which is updated every 10-sec.
 
 ## Table of Contents
 - [Features](#features)
@@ -12,7 +12,9 @@
 - [License](#license)
 
 ## Features
-- **Plant Disease Classification**: The model identifies diseases from 38 classes, including Apple Scab, Grape Black Rot, Corn Leaf Spot, and others.
+- **User-SDk**: it is any PyQt(python) application, that runs in background when user takes online assessment, SDK basically logs user keystroke and mouse movements. And monitor the apps opened in background. This all takes less than 0.2-0.3% CPU usage (smooth flow on low end PC's too). It is connected with pre-trained Anamoly Model (Isolation Forest) which calculates Risk-Score every 10-sec. And this can be shipped via .exe file easily.
+![Screenshot 2025-03-18 124148](https://github.com/user-attachments/assets/7c36293b-4cca-4639-adf9-9122b47f9416)
+
 - **Severity Estimation**: Predicts the level of disease severity, advising users if treatment is needed.
 - **User-Friendly Web Interface**: A simple interface for uploading images and receiving diagnostic results in real-time.
 
