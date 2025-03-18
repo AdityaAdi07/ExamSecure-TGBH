@@ -7,7 +7,7 @@
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [git-close](#cloneRepository)
+- [git-clone](#cloneRepository)
 
 ## Features
 1. **User-SDk**:
