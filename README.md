@@ -7,9 +7,7 @@
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Future Scope](#future-scope)
-- [License](#license)
+- [git-close](#cloneRepository)
 
 ## Features
 1. **User-SDk**:
@@ -42,8 +40,8 @@
 - It allows admin to select a user and send warning message, ban or un-ban them on insaant. This log is also stored in mongo DB so for further reference if ever decision is challenged.
 - Also there is graphical representaion of the the risk score for admin to easily see through multiple users.
 ![image](https://github.com/user-attachments/assets/71cafb07-fd23-4db8-9fb8-0e2c76fca5db)
-![image](https://github.com/user-attachments/assets/5b6aea89-8418-4f32-99f4-55bf22310e2e)
 ![image](https://github.com/user-attachments/assets/4200fbc0-dd76-40c0-bb8d-987ea1f2b586)
+![image](https://github.com/user-attachments/assets/5b6aea89-8418-4f32-99f4-55bf22310e2e)
 
 
 
@@ -99,5 +97,5 @@ Ensure the trained CNN model and class indices JSON file are located in the `mod
 
 ### Clone Repository
 ```bash
-git clone https://github.com/Raged-Pineapple/krishaka-kavacham.git
-cd krishaka-kavacham
+git clone github.com/AdityaAdi07/ExamSecure-TGBH.git
+cd Exam-Secure
